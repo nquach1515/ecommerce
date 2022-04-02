@@ -184,7 +184,7 @@ button {
 }
 
 button:active {
-    transform: translateY(1px)p;
+    transform: translateY(1px);
 }
 
 .btn {
@@ -201,6 +201,10 @@ button:active {
     z-index: 2;
     display: flex;
     justify-content: center;
+}
+
+.header__img {
+    width: 50%;
 }
 
 .container {
